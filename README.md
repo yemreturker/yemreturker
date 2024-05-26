@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm an aspiring backend developer from Denizli, Turkey. I'm currently focused on learning ASP.NET development and building scalable APIs.
+I'm an aspiring backend developer from Denizli, Turkey. I'm currently focused on learning NodeJS development and building scalable APIs.
 
 🔭 I’m currently working on personal projects to improve my skills and gain practical experience.
 
-🌱 I’m currently learning DotNet Framework and RESTful API development to enhance my knowledge.
+🌱 I’m currently learning ExpressJS and RESTful API development to enhance my knowledge.
 
-💬 Ask me about my learning journey with C#, my experience with basic web development concepts, or my passion for technology.
+💬 Ask me about my learning journey with ExpressJS, my experience with basic web development concepts, or my passion for technology.
 
 📫 How to reach me: yemreturker@outlook.com
 
