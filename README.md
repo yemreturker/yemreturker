@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring backend developer from Denizli, Turkey. I'm currently focused on learning NodeJS development and building scalable APIs.
+I'm an aspiring backend developer from Turkey. I'm currently focused on learning NodeJS development and building scalable APIs.
 
 🔭 I’m currently working on personal projects to improve my skills and gain practical experience.
 
